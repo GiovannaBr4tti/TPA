@@ -20,6 +20,7 @@ public class prjIdade {
 				}
 			i++;
 		}
+		ler.close();
 	}
 	
 }
