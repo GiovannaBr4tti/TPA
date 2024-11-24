@@ -32,6 +32,6 @@ public class prjParesEImpares01 {
 			}
 		}
 		System.out.print("]\n");
-	
+		ler.close();
 	}
 }
