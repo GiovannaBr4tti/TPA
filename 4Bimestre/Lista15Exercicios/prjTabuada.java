@@ -20,5 +20,6 @@ public class prjTabuada {
 				System.out.println(a[i] + "x" + j + "=" + (a[i]*j));
 			}
 		}
+		ler.close();
 	}
 }
