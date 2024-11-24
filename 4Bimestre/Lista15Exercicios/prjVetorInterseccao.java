@@ -4,7 +4,7 @@ public class prjVetorInterseccao {
 	public static void main (String args[]) {
 		Scanner ler= new Scanner (System.in);
 		final int TAM=10;
-		int i=0, j=0, quant=0, k=0;
+		int i=0, j=0, quant=0;
 		
 		int a[] = new int [TAM];
 		int b[] = new int [TAM];
