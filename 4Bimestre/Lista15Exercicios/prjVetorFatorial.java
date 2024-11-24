@@ -45,6 +45,6 @@ public class prjVetorFatorial {
 		}
 		System.out.print("]\n");
         
-        ler.close(); // Fechar o scanner
+        ler.close();
     }
 }
