@@ -33,5 +33,6 @@ public class prjVetor08 {
             }
         }
         System.out.println("]");
+        ler.close();
     }
 }
