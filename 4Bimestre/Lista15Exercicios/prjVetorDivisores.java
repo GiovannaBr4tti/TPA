@@ -21,6 +21,7 @@ public class prjVetorDivisores {
                 }
             }
             System.out.println();
+	    ler.close();
 	    }
 	}
 }
